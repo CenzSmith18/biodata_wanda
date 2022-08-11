@@ -2,5 +2,4 @@ Nama      : Wanda Nugraha
 Alamat    : Jl.Peta
 TTL       : Bandung, 18 Desember 2004
 JK        : Laki-Laki
-Cita-Cita : Pembalap Tamia
-Hobi      : Nongkrong
+Hobi      : Nongkrong, Ngopi, Ngoding Dan Ngorong

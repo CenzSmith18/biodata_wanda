@@ -3,3 +3,4 @@ Alamat    : Jl.Peta
 TTL       : Bandung, 18 Desember 2004
 JK        : Laki-Laki
 Hobi      : Nongkrong, Ngopi, Ngoding Dan Ngorong
+Cita-Cita : -

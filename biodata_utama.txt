@@ -1,6 +1,10 @@
-Nama      : Wanda Nugraha
-Alamat    : Jl.Peta
-TTL       : Bandung, 18 Desember 2004
-JK        : Laki-Laki
-Hobi      : Nongkrong, Ngopi, Ngoding Dan Ngorong
-Cita-Cita : -
+Nama               : Wanda Nugraha
+Alamat             : Jl.Peta
+TTL                : Bandung, 18 Desember 2004
+JK                 : Laki-Laki
+Hobi               : Nongkrong, Ngopi, Ngoding Dan Ngorong
+Cita-Cita          : -
+Riwayat Pendidikan : - TK Alkindi
+                     - Mi Persis 29
+                     - SMPN Pahlawan Toha
+                     - SMKN Prakarya Internasional
